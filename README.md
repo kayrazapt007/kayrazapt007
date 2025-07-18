@@ -6,7 +6,7 @@
 ## 🛠️ Tech Stack
 **Languages:** Python, JavaScript, HTML, CSS  
 **Frameworks & Tools:** Flask, React Native, TailwindCSS  
-**Other:** Git, Docker, Linux, CyberPanel, MySQL
+**Other:** Git, Docker, Linux, MySQL
 ## 🚧 Projects
 - 💨 There will be updated!
 ## 📫 Let's Connect
