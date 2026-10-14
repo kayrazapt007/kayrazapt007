@@ -10,9 +10,6 @@
 ## 🚧 Projects
 - 💨 There will be updated!
 ## 📫 Let's Connect
-- ✉️ Email: **merhaba@kaeasy.co**  
-- ✉️ Email: **iletisim@kayrazaptiyeoglu.com.tr**  
-- 🌎 Website: [kaeasy.co](https://kaeasy.co)  
-- 🌎 Website: [kayrazaptiyeoglu.com.tr](https://kayrazaptiyeoglu.comçtr)  
-- 💬 Telegram: [@kaeasy07](t.me/kaeasy07)
+- ✉️ Email: **iletisim@kayrazaptiyeoglu.com.tr** 
+- 🌎 Website: [kayrazaptiyeoglu.com.tr](https://kayrazaptiyeoglu.com.tr)
 - 📸 Instagram: [@kayrazapt007](instagram.com/kayrazapt007)
